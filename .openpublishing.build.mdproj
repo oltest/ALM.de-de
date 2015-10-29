@@ -1,5 +1,5 @@
 <Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup>
+  <PropertyGroup> 
     <BuildTaskPackage>docfx.msbuild</BuildTaskPackage>
     <BuildTaskProjectPath>build/docfx.msbuild.targets</BuildTaskProjectPath>
     <ToolsFolder>$(MSBuildThisFileDirectory)Tools\</ToolsFolder>

@@ -57,6 +57,21 @@
   "f0a28c4f0a7ae280a0e4c4a5dfda3bfa27ef7a88": [
     "openpublishing\\corefx\\roslyn-overview.md"
   ],
+  "fbfe6918a245f1b9dff32ddb0670d2ac8b73101a": [
+    "openpublishing\\corefx\\images\\compiler-pipeline.png"
+  ],
+  "56bc9f34b30fb05bbab31d709d45f30d23b4149d": [
+    "openpublishing\\corefx\\images\\compiler-pipeline-api.png"
+  ],
+  "23805558c35dac3c885b89d4897da0dcd17957b2": [
+    "openpublishing\\corefx\\images\\compiler-pipeline-lang-svc.png"
+  ],
+  "75c35606d91f76b18666cd3da0fd646337a5abb0": [
+    "openpublishing\\corefx\\images\\alex-api-layers.png"
+  ],
+  "a6cb99ce97c377f3e4780f94bf9710abdcce7b7c": [
+    "openpublishing\\corefx\\images\\workspace-obj-relations.png"
+  ],
   "bd3661c432f0a4778e717944cb2b9da49f01b550": [
     "openpublishing\\corefx\\supporting-core.md"
   ],

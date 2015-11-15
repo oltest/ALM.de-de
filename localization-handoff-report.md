@@ -18,10 +18,10 @@
 * Status: HandedOff
 * Target File: 
 * Handoff File: [75c35606d91f76b18666cd3da0fd646337a5abb0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/e79bd4a20b12571abd0317403bc52dd2824f7a67/ol-handoff/oltest/ALM.de-de/live/75c35606d91f76b18666cd3da0fd646337a5abb0.png)
-* Handback File: 
 * Handoff Datetime: 2015-11-02 12:39:46
-* Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * Dependency From: openpublishing\corefx\roslyn-overview.md
 * [Back to Top](#report-top)
 
@@ -29,10 +29,10 @@
 * Status: HandedOff
 * Target File: 
 * Handoff File: [fbfe6918a245f1b9dff32ddb0670d2ac8b73101a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/e79bd4a20b12571abd0317403bc52dd2824f7a67/ol-handoff/oltest/ALM.de-de/live/fbfe6918a245f1b9dff32ddb0670d2ac8b73101a.png)
-* Handback File: 
 * Handoff Datetime: 2015-11-02 12:39:46
-* Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * Dependency From: openpublishing\corefx\roslyn-overview.md
 * [Back to Top](#report-top)
 
@@ -40,10 +40,10 @@
 * Status: HandedOff
 * Target File: 
 * Handoff File: [56bc9f34b30fb05bbab31d709d45f30d23b4149d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/e79bd4a20b12571abd0317403bc52dd2824f7a67/ol-handoff/oltest/ALM.de-de/live/56bc9f34b30fb05bbab31d709d45f30d23b4149d.png)
-* Handback File: 
 * Handoff Datetime: 2015-11-02 12:39:46
-* Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * Dependency From: openpublishing\corefx\roslyn-overview.md
 * [Back to Top](#report-top)
 
@@ -51,10 +51,10 @@
 * Status: HandedOff
 * Target File: 
 * Handoff File: [23805558c35dac3c885b89d4897da0dcd17957b2.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/e79bd4a20b12571abd0317403bc52dd2824f7a67/ol-handoff/oltest/ALM.de-de/live/23805558c35dac3c885b89d4897da0dcd17957b2.png)
-* Handback File: 
 * Handoff Datetime: 2015-11-02 12:39:46
-* Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * Dependency From: openpublishing\corefx\roslyn-overview.md
 * [Back to Top](#report-top)
 
@@ -62,10 +62,10 @@
 * Status: HandedOff
 * Target File: 
 * Handoff File: [a6cb99ce97c377f3e4780f94bf9710abdcce7b7c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/e79bd4a20b12571abd0317403bc52dd2824f7a67/ol-handoff/oltest/ALM.de-de/live/a6cb99ce97c377f3e4780f94bf9710abdcce7b7c.png)
-* Handback File: 
 * Handoff Datetime: 2015-11-02 12:39:46
-* Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: IsDependency
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * Dependency From: openpublishing\corefx\roslyn-overview.md
 * [Back to Top](#report-top)
 
@@ -73,10 +73,10 @@
 * Status: HandedOff
 * Target File: 
 * Handoff File: [README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/424d27b3ae96010c66eefdfa74607d5219e86a20/ol-handoff/oltest/ALM.de-de/live/README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.de-de.xlf)
-* Handback File: 
 * Handoff Datetime: 2015-10-29 09:51:42
-* Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 
